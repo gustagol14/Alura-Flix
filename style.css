@@ -1,10 +1,10 @@
 body {
-    background-color: blue;
+    background-color: rgba(82, 125, 153, 0.466);
     color: rgb(48, 32, 32)
 } 
 
 h1 {
-    color: #0b50b8;
+    color: #1b1d20;
     font-size: 22px;
 }
 
