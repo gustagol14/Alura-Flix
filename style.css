@@ -2,6 +2,11 @@ body {
     background-color: rgba(82, 125, 153, 0.466);
     color: rgb(26, 1, 1)
 } 
+header{
+   color: #11e0e7;
+   font-size: 22px;
+} 
+}
 
 h1 {
     color: #1b1d20;
@@ -9,5 +14,6 @@ h1 {
 }
 
 p {
+    color: #360606;
 font-size: 18px;
 }
