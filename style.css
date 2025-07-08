@@ -25,3 +25,16 @@ header{
     padding: 15px;
 
 }
+.chama-texto{
+    margin: 3%;
+}
+
+section{
+    background:rgba(97, 97, 167, 0.437);
+    padding-bottom:80px;
+    padding-top:80px;
+    display: flex;
+    justify-content:center;
+}
+
+
